@@ -5,7 +5,7 @@ A French keyboard with English layout for Sublime
 In order to be able to type French Accents and German Umlaut, this script provides simple commands to use without changing keyboard language (the same layout as English is used)
 
 # Usage
-To the script is enabled for files with .fr extension.
+The script only works in files with .fr extension.
 
 #### Key Combinations
 
