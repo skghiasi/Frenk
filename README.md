@@ -18,7 +18,7 @@ The script only works in files with .fr extension.
    
 # Installation
 To use this plugin with Sublime3, copy 'Frenk.py' to 'sublime-text-3/Packages/User' the full path under linux is: 
-    #### 
+    
     
     /home/.config/sublime-text-3/Packages/User
     
